@@ -32,49 +32,61 @@ div#beach {
 
 #people1{
   position: absolute;
-  bottom: 65px;
-  left: 255px;
-  width: 140px;}
+  bottom: 5px;
+  left: 388px;
+  width: 181px;}
 #people2{
   position: absolute;
-  bottom: 316px;
-  left: 189px;
-  width: 204px;}
+  bottom: 331px;
+  left: 356px;
+  width: 238px;}
 #people3{
   position: absolute;
-  bottom: 65px;
-  left: 1013px;
-  width: 140px;
+  bottom: 3px;
+  left: 1378px;
+  width: 175px;
 }
 #people4{
   position: absolute;
   bottom: 318px;
-  left: 870px;
-  width: 186px;
+  left: 1371px;
+  width: 231px;
 }
 #people5{
   position: absolute;
-  bottom: 318px;
-  left: 400px;
-  width: 140px;
+  bottom: 343px;
+  left: 600px;
+  width: 201px;
 }
 #people6{
   position: absolute;
-  bottom: 65px;
-  left: 870px;
-  width: 140px;
+  bottom: 5px;
+  left: 1179px;
+  width: 173px;
 }
 #people7{
   position: absolute;
-  bottom: 65px;
-  left: 400px;
-  width: 140px;
+  bottom: 22px;
+  left: 610px;
+  width: 173px;
+}
+#people8{
+  position: absolute;
+  bottom: 183px;
+  left: 1616px;
+  width: 287px;
+}
+#people9{
+  position: absolute;
+  bottom: 34px;
+  left: 46px;
+  width: 279px;
 }
 #people {
   position: absolute;
-  bottom: 65px;
-  left: 40px;
-  width: 140px;
+  bottom: 318px;
+  left: 1132px;
+  width: 231px;
 }
 
 #car {
@@ -465,9 +477,9 @@ div#sea {
   }
 
   #people {
-    left: 1063px;
-    bottom: 320px;
-    width: 185px;
+    bottom: 318px;
+    left: 1132px;
+    width: 231px;
   }
 
   div#beach {
